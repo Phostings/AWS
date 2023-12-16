@@ -1,0 +1,1 @@
+This respository is used for learning the ends and outs of AWS services. As a DevOps engineer, I will use this for learning about testing in the AWS cloud and to hone my skills in other applications. 
